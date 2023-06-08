@@ -1,5 +1,5 @@
 # named entity recognition
-Tensorflow implementation of LSTM based models for named entity recognition task
+Keras implementation of LSTM based models for named entity recognition task
 
 dataset: CoNLL2003
 
