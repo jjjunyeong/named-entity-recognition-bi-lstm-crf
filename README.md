@@ -9,4 +9,4 @@ senna word embedding files can be downloaded from: [Link](https://ronan.collober
 
 model: CRF, LSTM, LSTM-CRF, BI-LSTM, BI-LSTM-CRF
 
-Implementation of the paper: [Bidirectional LSTM-CRF models for sequence tagging](https://arxiv.org/abs/1508.01991)
+Reference paper: [Bidirectional LSTM-CRF models for sequence tagging](https://arxiv.org/abs/1508.01991)
